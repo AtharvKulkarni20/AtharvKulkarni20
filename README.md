@@ -1,74 +1,133 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Atharv Kulkarni - Portfolio</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100 font-sans">
-  <!-- Header -->
-  <header class="bg-white shadow-md py-6 text-center">
-    <h1 class="text-3xl font-bold">I am Atharv Kulkarni</h1>
-  </header>
+<h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
+<p align="center">
+  🌱 A passionate MERN Stack Developer from India  
+</p>
 
-  <!-- Profile Section -->
-  <section class="max-w-4xl mx-auto mt-8 p-6 bg-white rounded-xl shadow-md text-center">
-    <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Picture" class="w-32 h-32 rounded-full mx-auto border-4 border-gray-300">
-    <h2 class="mt-4 text-2xl font-semibold">Web Developer | MERN Stack Enthusiast</h2>
-    <p class="text-gray-600 mt-2">Passionate about building scalable web apps and exploring open-source.</p>
-  </section>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtharvKulkarni20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-  <!-- Connect Me -->
-  <section class="max-w-4xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md">
-    <h2 class="text-2xl font-bold mb-4">Connect Me</h2>
-    <div class="flex justify-center space-x-6">
-      <a href="https://github.com/" target="_blank" class="text-gray-800 hover:text-black text-3xl">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://linkedin.com/" target="_blank" class="text-blue-700 hover:text-blue-900 text-3xl">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="https://twitter.com/" target="_blank" class="text-sky-500 hover:text-sky-700 text-3xl">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </div>
-  </section>
+---
 
-  <!-- Tools and Languages -->
-  <section class="max-w-4xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md">
-    <h2 class="text-2xl font-bold mb-6">Tools & Languages</h2>
-    <div class="grid grid-cols-3 sm:grid-cols-5 gap-6 text-center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="w-12 mx-auto" alt="HTML5">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="w-12 mx-auto" alt="CSS3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="w-12 mx-auto" alt="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="w-12 mx-auto" alt="React">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" class="w-12 mx-auto" alt="Node.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" class="w-12 mx-auto" alt="MongoDB">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" class="w-12 mx-auto" alt="Express">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" class="w-12 mx-auto" alt="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" class="w-12 mx-auto" alt="GitHub">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" class="w-12 mx-auto" alt="Tailwind CSS">
-    </div>
-  </section>
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **MERN stack projects**  
+- 🌱 I’m learning **React.js, Node.js, MongoDB, Express, TypeScript & Tailwind CSS**  
+- 💬 Ask me about **Frontend, Backend, and full-stack projects**  
+- 📫 Reach me at: **atharvnandkishorkulkarni@gmail.com**  
+- ⚡ Fun fact: I love building projects that solve real problems!  
 
-  <!-- Portfolio Section -->
-  <section class="max-w-4xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md">
-    <h2 class="text-2xl font-bold mb-4">Portfolio</h2>
-    <ul class="list-disc list-inside marker:text-red-600">
-      <li>Video Streaming Platform - MERN Stack</li>
-      <li>URL Shortener - Node.js & MongoDB</li>
-      <li>Organic Products Startup Website</li>
-    </ul>
-  </section>
+---
 
-  <!-- GitHub Streak -->
-  <section class="max-w-4xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md text-center">
-    <h2 class="text-2xl font-bold mb-4">GitHub Streak</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="GitHub Streak Stats" class="mx-auto">
-  </section>
+### 🌐 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/atharvkulkarni20/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Atharv_020" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter (old bird logo)"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://atharvkulkarni.info/" target="_blank">
+    <span style="font-size: 36px; color: red;">🔺</span>
+  </a>
+</div>  
 
-  <!-- Font Awesome -->
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-</body>
-</html>
+---
+
+### 🚀 Languages and Tools  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+        <br><b>CSS3</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+        <br><b>React</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+        <br><b>Express</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+        <br><b>Tailwind</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br><b>Git</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+        <br><b>GitHub</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+        <br><b>Java</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <br><b>Python</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=tokyonight" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>  
+
+---
+
+### 🚀 Featured Projects
+- [📹 AI Resume Builder](https://github.com/AtharvKulkarni20/AI-Resume-Builder)  
+- [🔺 My Portfolio](https://github.com/AtharvKulkarni20/Portfolio_Atharv)  
+
+---
+
+⭐️ From [AtharvKulkarni20](https://github.com/AtharvKulkarni20)  
