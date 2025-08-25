@@ -23,13 +23,13 @@
   <a href="https://www.linkedin.com/in/atharvkulkarni20/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Atharv_020" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter (old bird logo)"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://atharvkulkarni.info/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Portfolio"/>
+    <span style="font-size: 36px; color: red;">🔺</span>
   </a>
 </div>  
 
@@ -126,7 +126,7 @@
 
 ### 🚀 Featured Projects
 - [📹 AI Resume Builder](https://github.com/AtharvKulkarni20/AI-Resume-Builder)  
-- [🔗 My Portfolio](https://github.com/AtharvKulkarni20/Portfolio_Atharv)  
+- [🔺 My Portfolio](https://github.com/AtharvKulkarni20/Portfolio_Atharv)  
 
 ---
 
