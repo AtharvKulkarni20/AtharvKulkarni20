@@ -21,29 +21,61 @@
 
 ### 🚀 Languages and Tools  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+        <br><b>CSS3</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+        <br><b>React</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+        <br><b>Express</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br><b>Git</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+        <br><b>GitHub</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=dark" alt="stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=dark&hide_border=true" alt="streak" height="160"/>
-</p>
+### 📊 GitHub Stats
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=dark" alt="languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=tokyonight)  
 
 ---
 
