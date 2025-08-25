@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **MERN stack projects**  
-- 🌱 I’m learning **React.js, Node.js, MongoDB, Express**  
+- 🌱 I’m learning **React.js, Node.js, MongoDB, Express, TypeScript & Tailwind CSS**  
 - 💬 Ask me about **Frontend, Backend, and full-stack projects**  
 - 📫 Reach me at: **atharvnandkishorkulkarni@gmail.com**  
 - ⚡ Fun fact: I love building projects that solve real problems!  
@@ -53,6 +53,10 @@
         <br><b>JavaScript</b>
       </td>
       <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
         <br><b>React</b>
       </td>
@@ -71,6 +75,10 @@
         <br><b>MongoDB</b>
       </td>
       <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+        <br><b>Tailwind</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
         <br><b>Git</b>
       </td>
@@ -79,6 +87,14 @@
       <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
         <br><b>GitHub</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+        <br><b>Java</b>
+      </td>
+      <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <br><b>Python</b>
       </td>
     </tr>
   </table>
