@@ -7,15 +7,15 @@
 - 🔭 I’m currently working on **MERN stack projects**  
 - 🌱 I’m learning **React.js, Node.js, MongoDB, Express**  
 - 💬 Ask me about **Frontend, Backend, and full-stack projects**  
-- 📫 Reach me at: **your_email@example.com**  
+- 📫 Reach me at: **atharvnandkishorkulkarni@gmail.com**  
 - ⚡ Fun fact: I love building projects that solve real problems!  
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvkulkarni20/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://atharvkulkarni.info/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Atharv_020)  
 
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ### 🚀 Featured Projects
-- [📹 Video Streaming App](https://github.com/AtharvKulkarni20/video_streaming)  
-- [🔗 TinyURL Clone](https://github.com/AtharvKulkarni20/tinyurl)  
-- (add more cool projects here!)
+- [📹 AI Resume Builder](https://github.com/AtharvKulkarni20/AI-Resume-Builder)  
+- [🔗 My Portfolio](https://github.com/AtharvKulkarni20/Portfolio_Atharv)  
+
 
 ---
 
