@@ -12,10 +12,20 @@
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvkulkarni20/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://atharvkulkarni.info/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Atharv_020)  
+### 🌐 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/atharvkulkarni20/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Atharv_020" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://atharvkulkarni.info/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Portfolio"/>
+  </a>
+</div>  
 
 ---
 
@@ -70,12 +80,25 @@
 
 ---
 
-### 📊 GitHub Stats
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight)  
+### 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=tokyonight)  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=tokyonight" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>  
 
 ---
 
