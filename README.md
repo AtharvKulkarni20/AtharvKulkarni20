@@ -29,7 +29,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://atharvkulkarni.info/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Portfolio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/9037/9037225.png" width="40" height="40" alt="Portfolio"/>
   </a>
 </div>  
 
