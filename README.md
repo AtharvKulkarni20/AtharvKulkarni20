@@ -1,5 +1,11 @@
-# Hi 👋, I'm Atharv Kulkarni  
-🌱 A passionate MERN Stack Developer from India  
+<h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
+<p align="center">
+  🌱 A passionate MERN Stack Developer from India  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtharvKulkarni20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -15,11 +21,11 @@
 ### 🌐 Connect with Me  
 <div align="center">
   <a href="https://www.linkedin.com/in/atharvkulkarni20/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/Atharv_020" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+  <a href="https://twitter.com/Atharv_020" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://atharvkulkarni.info/" target="_blank">
@@ -85,10 +91,10 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
