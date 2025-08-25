@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/Atharv_020" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter (old bird logo)"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://atharvkulkarni.info/" target="_blank">
@@ -75,7 +75,7 @@
         <br><b>MongoDB</b>
       </td>
       <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
         <br><b>Tailwind</b>
       </td>
       <td align="center" width="120" style="border: 2px solid #444; border-radius: 12px; padding: 10px;">
