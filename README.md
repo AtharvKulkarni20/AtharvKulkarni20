@@ -1,41 +1,51 @@
-## Hi 👋, I’m Atharv Kulkarni…
-
-<!--
-**AtharvKulkarni20/AtharvKulkarni20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi 👋, I'm Atharv Kulkarni  
-💻 A passionate developer from India  
-
-- 🔭 I’m currently working on MERN stack projects  
-- 🌱 I’m learning **React, Node.js, MongoDB**  
-- 💬 Ask me about **Frontend & Backend Development**  
-- 📫 How to reach me: **your_email@example.com**
+🌱 A passionate MERN Stack Developer from India  
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](your-portfolio-link)
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **MERN stack projects**  
+- 🌱 I’m learning **React.js, Node.js, MongoDB, Express**  
+- 💬 Ask me about **Frontend, Backend, and full-stack projects**  
+- 📫 Reach me at: **your_email@example.com**  
+- ⚡ Fun fact: I love building projects that solve real problems!  
 
 ---
 
-### 🚀 Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats
 ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=dark)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=dark&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKulkarni20&layout=compact&theme=dark)  
 
 ---
 
-### 🚀 My Projects:
-- [Project 1](https://github.com/AtharvKulkarni20/project1)  
-- [Project 2](https://github.com/AtharvKulkarni20/project2)
+### 🚀 Featured Projects
+- [📹 Video Streaming App](https://github.com/AtharvKulkarni20/video_streaming)  
+- [🔗 TinyURL Clone](https://github.com/AtharvKulkarni20/tinyurl)  
+- (add more cool projects here!)
+
+---
+
+⭐️ From [AtharvKulkarni20](https://github.com/AtharvKulkarni20)  
