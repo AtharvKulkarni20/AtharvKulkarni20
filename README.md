@@ -110,9 +110,10 @@
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats" />
       </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
+     <td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+
     </tr>
     <tr>
       <td colspan="2" align="center">
