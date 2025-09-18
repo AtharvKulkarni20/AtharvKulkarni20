@@ -108,10 +108,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtharvKulkarni20&show_icons=true&theme=tokyonight" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.vercel.app?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvKulkarni20&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
     <tr>
